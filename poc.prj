@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MATLABProject Version="1">
+  <ProjectRoot>.</ProjectRoot>
+  <Description>Bugcrowd PoC opengit auto-init</Description>
+  <ProjectStartup>
+    <File>startup.m</File>
+  </ProjectStartup>
+</MATLABProject>
